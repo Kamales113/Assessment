@@ -4,3 +4,5 @@ pulse
 ragi
 protta
 the first commit is done but i made some change in it in WD
+Dosai
+idly
